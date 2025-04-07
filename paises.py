@@ -13,7 +13,7 @@ paises = [
             {
                 "nombre": "medellin",
                 "poblacion": 2.6,
-                "fundacion": 1675,
+                "fundacion": 1675
             },
             {
                 "nombre": "cali",
